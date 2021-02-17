@@ -1,0 +1,52 @@
+"dragoniereph"
+{
+	"base"		"base"
+	"title"		"Prop Hunters : One For All - Dragonière Edition"
+	"maps"		"^ph_"
+	"menusystem"	"1"
+	"workshopid"	"2397909729"
+	"version" 	"v1.3.3"
+	"settings"
+	{
+		1
+		{
+			"name"		"ph_auto_taunt"
+			"text"		"Auto taunts enabled"
+			"help"		"Sets if auto taunts are enabled."
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+		2
+		{
+			"name"		"ph_auto_taunt_delay_min"
+			"text"		"Min time without taunting"
+			"help"		"Mininum time to go without taunting (sec)."
+			"type"		"Numeric"
+			"default"	"60"
+		}
+		3
+		{
+			"name"		"ph_auto_taunt_delay_max"
+			"text"		"Max time without taunting"
+			"help"		"Maximum time to go without taunting (sec)."
+			"type"		"Numeric"
+			"default"	"120"
+		}
+		4
+		{
+			"name"		"ph_auto_balance"
+			"text"		"Auto balance teams"
+			"help"		"Balance automatically teams, the concept of this mod"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+		5
+		{
+			"name"		"ph_nb_hunter"
+			"text"		"Number of hunters"
+			"help"		"Set the number of hunters, works only if auto balance is disable"
+			"type"		"Numeric"
+			"default"	"1"
+		}
+	}
+}
