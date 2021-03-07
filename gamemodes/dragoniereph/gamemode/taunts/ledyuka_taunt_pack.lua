@@ -230,3 +230,17 @@ addTaunt("Jojo - YES", {
 addTaunt("Hip Shop", {
  "kyane/hip_shop.mp3", 
  }, "props", "both", {"Kyane"}, 39)
+
+
+-------- Cloudy
+addTaunt("Non", {
+ "cloudy/non.mp3", 
+ }, "props", "both", {"Cloudy"}, 1)
+
+ addTaunt("Yoshi Mlem", {
+ "cloudy/yoshi_mlem.mp3", 
+ }, "props", "both", {"Cloudy"}, 0.3)
+
+ addTaunt("Yoshi Scream", {
+ "cloudy/yoshi_scream.mp3", 
+ }, "props", "both", {"Cloudy"}, 5)
