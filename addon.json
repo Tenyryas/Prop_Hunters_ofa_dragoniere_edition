@@ -2,5 +2,9 @@
 	"title"		:	"Prop Hunters : One for All - Dragonière Edition",
 	"type"		:	"gamemode",
 	"tags"		:	"Fun",
-	"ignore"	:	""
+	"ignore"	:	
+	[
+		"*.md",
+		"*.git*"
+	]
 }

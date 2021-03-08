@@ -157,7 +157,7 @@ addTaunt("ZA WARUDO", {
 
  
 
--------- Kyane
+-------- KYANE
 
 addTaunt("LA KOUIZINE", {
  "kyane/la_kouizine.mp3", 
@@ -232,7 +232,7 @@ addTaunt("Hip Shop", {
  }, "props", "both", {"Kyane"}, 39)
 
 
--------- Cloudy
+-------- CLOUDY
 addTaunt("Non", {
  "cloudy/non.mp3", 
  }, "props", "both", {"Cloudy"}, 1)
@@ -244,3 +244,45 @@ addTaunt("Non", {
  addTaunt("Yoshi Scream", {
  "cloudy/yoshi_scream.mp3", 
  }, "props", "both", {"Cloudy"}, 5)
+
+
+-------- INSANE PONY
+addTaunt("Bomb Me", {
+ "insane_pony/bomb_me.mp3", 
+ }, "props", "both", {"Insane Pony"}, 0.3)
+
+ addTaunt("Ca va péter!", {
+ "insane_pony/ca_va_peter.mp3", 
+ }, "props", "both", {"Insane Pony"}, 3)
+
+ addTaunt("Deeper", {
+ "insane_pony/deeper.mp3", 
+ }, "props", "both", {"Insane Pony"}, 0.3)
+
+ addTaunt("For SEX", {
+ "insane_pony/for_sex.mp3", 
+ }, "props", "both", {"Insane Pony"}, 0.3)
+
+ addTaunt("Highest Order", {
+ "insane_pony/highest_order.mp3", 
+ }, "props", "both", {"Insane Pony"}, 1)
+
+ addTaunt("Ma Libellule", {
+ "insane_pony/ma_libellule.mp3", 
+ }, "props", "both", {"Insane Pony"}, 7)
+
+ addTaunt("Natural Obligation", {
+ "insane_pony/natural_obligation.mp3", 
+ }, "props", "both", {"Insane Pony"}, 1)
+
+ addTaunt("Only for Exit!", {
+ "insane_pony/only_for_exit.mp3", 
+ }, "props", "both", {"Insane Pony"}, 8)
+
+ addTaunt("Vegetables", {
+ "insane_pony/vegetables.mp3", 
+ }, "props", "both", {"Insane Pony"}, 18)
+
+ addTaunt("Why are you gay?", {
+ "insane_pony/why_are_you_gay.mp3", 
+ }, "props", "both", {"Insane Pony"}, 1)
