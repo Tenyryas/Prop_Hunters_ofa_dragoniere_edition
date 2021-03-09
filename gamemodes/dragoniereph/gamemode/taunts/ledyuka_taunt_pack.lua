@@ -1,31 +1,92 @@
 -------- LEDYUKA
 addTaunt("AAAAAAAAH", {
  "ledyuka/aaaaaaaah.mp3", 
- }, "props", "both", {"Ledyuka"}, 3)
+ }, "props", "both", {"Ledyuka"}, 2)
+
+ addTaunt("Ah ! Got ye !", {
+ "ledyuka/ah_got_ye.mp3", 
+ }, "props", "both", {"Ledyuka"}, 5)
+
+ addTaunt("Are you leaving?", {
+ "ledyuka/are_you_leaving.mp3", 
+ }, "both", "both", {"Ledyuka"}, 0.3)
+
+  addTaunt("Buh Buh", {
+ "ledyuka/buh_buh.mp3", 
+ }, "props", "both", {"Ledyuka"}, 0.1)
+
+  addTaunt("Can you remove yourself?", {
+ "ledyuka/can_you_remove_yourself.mp3", 
+ }, "both", "both", {"Ledyuka"}, 2)
+
+addTaunt("Deez Nuts", {
+ "ledyuka/deez_nuts.mp3", 
+ }, "props", "both", {"Ledyuka"}, 0.3)
+
+addTaunt("Do it", {
+ "ledyuka/do_it.mp3", 
+ }, "props", "both", {"Ledyuka"}, 0.3)
+
+addTaunt("Don't get too cocky!", {
+ "ledyuka/dont_get_too_cocky.mp3", 
+ }, "both", "both", {"Ledyuka"}, 1)
+
+addTaunt("NOoOoOoOoOo", {
+ "ledyuka/faith_no.mp3", 
+ }, "both", "both", {"Ledyuka"}, 1)
+
+addTaunt("FOOLS!", {
+ "ledyuka/fools.mp3", 
+ }, "both", "both", {"Ledyuka"}, 2)
+
+addTaunt("I have the body of the pig!", {
+ "ledyuka/i_have_the_body_of_the_pig.mp3", 
+ }, "props", "both", {"Ledyuka"}, 1)
+
+addTaunt("I see you!", {
+ "ledyuka/i_see_you.mp3", 
+ }, "props", "both", {"Ledyuka"}, 0.3)
+
+addTaunt("John 14:6", {
+ "ledyuka/john_14_6.mp3", 
+ }, "both", "both", {"Ledyuka"}, 4)
 
 addTaunt("Listen Here", {
  "ledyuka/listen_here.mp3", 
- }, "props", "both", {"Ledyuka"}, 2)
+ }, "props", "both", {"Ledyuka"}, 1)
 
 addTaunt("Mamamia", {
  "ledyuka/mama_mia.mp3", 
- }, "props", "both", {"Ledyuka"}, 5)
+ }, "props", "both", {"Ledyuka"}, 4)
+
+addTaunt("Matthew 19:26", {
+ "ledyuka/matthew_19_26.mp3", 
+ }, "both", "both", {"Ledyuka"}, 5)
+
+addTaunt("Psalm 59", {
+ "ledyuka/psalm_59.mp3", 
+ }, "both", "both", {"Ledyuka"}, 13)
 
 addTaunt("So Long Gay Bowser", {
  "ledyuka/so_long_gay_bowser.mp3", 
- }, "props", "both", {"Ledyuka"}, 5)
+ }, "props", "both", {"Ledyuka"}, 4)
+
+addTaunt("SPARE ME!", {
+ "ledyuka/spare_me.mp3", 
+ }, "props", "both", {"Ledyuka"}, 9)
+
+addTaunt("SUFFERRRRRRRRR", {
+ "ledyuka/suffer.mp3", 
+ }, "both", "both", {"Ledyuka"}, 1)
 
 addTaunt("The Baby", {
  "ledyuka/the_baby.mp3", 
- }, "props", "both", {"Ledyuka"}, 2)
- 
-addTaunt("Deez Nuts", {
- "ledyuka/deez_nuts.mp3", 
  }, "props", "both", {"Ledyuka"}, 1)
+ 
+addTaunt("You good!", {
+ "ledyuka/you_good.mp3", 
+ }, "both", "both", {"Ledyuka"}, 1)
 
-addTaunt("Ah ! Got ye !", {
- "ledyuka/ah_got_ye.mp3", 
- }, "props", "both", {"Ledyuka"}, 6)
 
 
 -------- IMSOUSELESS
