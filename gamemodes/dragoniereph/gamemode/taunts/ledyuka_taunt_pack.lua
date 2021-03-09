@@ -39,11 +39,11 @@ addTaunt("FOOLS!", {
  "ledyuka/fools.mp3", 
  }, "both", "both", {"Ledyuka"}, 2)
 
-addTaunt("I have the body of the pig!", {
+addTaunt("I HAVE THE BODY OF THE PIG!", {
  "ledyuka/i_have_the_body_of_the_pig.mp3", 
  }, "props", "both", {"Ledyuka"}, 1)
 
-addTaunt("I see you!", {
+addTaunt("I SEE YOU!", {
  "ledyuka/i_see_you.mp3", 
  }, "props", "both", {"Ledyuka"}, 0.3)
 
@@ -62,6 +62,10 @@ addTaunt("Mamamia", {
 addTaunt("Matthew 19:26", {
  "ledyuka/matthew_19_26.mp3", 
  }, "both", "both", {"Ledyuka"}, 5)
+
+addTaunt("MORTIS", {
+ "ledyuka/mortis.mp3", 
+ }, "both", "both", {"Ledyuka"}, 0.3)
 
 addTaunt("Psalm 59", {
  "ledyuka/psalm_59.mp3", 
@@ -83,6 +87,10 @@ addTaunt("The Baby", {
  "ledyuka/the_baby.mp3", 
  }, "props", "both", {"Ledyuka"}, 1)
  
+ addTaunt("WORSHIP ME", {
+ "ledyuka/worship_me.mp3", 
+ }, "props", "both", {"Ledyuka"}, 0.3)
+
 addTaunt("You good!", {
  "ledyuka/you_good.mp3", 
  }, "both", "both", {"Ledyuka"}, 1)
